@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Brand Aesthetic System -->
+    <color name="spx_primary">#EE4D2D</color>      <!-- SPX Brand Orange -->
+    <color name="spx_primary_dark">#D73D22</color>
+    <color name="spx_accent">#FF6B4A</color>
+    <color name="spx_primary_light">#FFF5F2</color>
+
+    <!-- Semantic & Supporting Tones -->
+    <color name="slate_800">#1E293B</color>
+    <color name="slate_500">#64748B</color>
+    <color name="slate_400">#94A3B8</color>
+    <color name="slate_200">#E2E8F0</color>
+    <color name="slate_100">#F1F5F9</color>
+    <color name="white">#FFFFFF</color>
+</resources>

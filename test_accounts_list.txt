@@ -1,0 +1,145 @@
+=================================================
+   SPX EXPRESS - TEST ACCOUNTS DIRECTORY
+=================================================
+GLOBAL PASSWORD FOR ALL ACCOUNTS: passwords
+=================================================
+
+[ SYSTEM ADMINISTRATOR ]
+Email: admin@spx.com
+
+-------------------------------------------------
+              BRANCH PERSONNEL
+-------------------------------------------------
+
+--- Main Branch (Manila) ---
+Manager : mgr_manila@spx.com
+Staff   : staff_manila@spx.com
+Rider   : rider_manila@spx.com
+Customer: customer_manila@spx.com
+
+--- Secondary Branch (Cebu City) ---
+Manager : mgr_cebu@spx.com
+Staff   : staff_cebu@spx.com
+Rider   : rider_cebu@spx.com
+Customer: customer_cebu@spx.com
+
+--- Davao Regional Hub (Davao City) ---
+Manager : mgr_davao@spx.com
+Staff   : staff_davao@spx.com
+Rider   : rider_davao@spx.com
+Customer: customer_davao@spx.com
+
+--- Tacloban Distribution Center ---
+Manager : mgr_tacloban@spx.com
+Staff   : staff_tacloban@spx.com
+Rider   : rider_tacloban@spx.com
+Customer: customer_tacloban@spx.com
+
+--- Quezon City Station ---
+Manager : mgr_quezon@spx.com
+Staff   : staff_quezon@spx.com
+Rider   : rider_quezon@spx.com
+Customer: customer_quezon@spx.com
+
+--- Iloilo Drop-off ---
+Manager : mgr_iloilo@spx.com
+Staff   : staff_iloilo@spx.com
+Rider   : rider_iloilo@spx.com
+Customer: customer_iloilo@spx.com
+
+--- Baguio Express Center ---
+Manager : mgr_baguio@spx.com
+Staff   : staff_baguio@spx.com
+Rider   : rider_baguio@spx.com
+Customer: customer_baguio@spx.com
+
+--- Manila Branch ---
+Manager : mgr_manila2@spx.com
+Staff   : staff_manila2@spx.com
+Rider   : rider_manila2@spx.com
+Customer: customer_manila2@spx.com
+
+--- Makati Central Hub ---
+Manager : mgr_makati@spx.com
+Staff   : staff_makati@spx.com
+Rider   : rider_makati@spx.com
+Customer: customer_makati@spx.com
+
+--- Taguig Distribution Center ---
+Manager : mgr_taguig@spx.com
+Staff   : staff_taguig@spx.com
+Rider   : rider_taguig@spx.com
+Customer: customer_taguig@spx.com
+
+--- Lapu-Lapu Mactan Hub ---
+Manager : mgr_lapulapu@spx.com
+Staff   : staff_lapulapu@spx.com
+Rider   : rider_lapulapu@spx.com
+Customer: customer_lapulapu@spx.com
+
+--- Talisay Local Center ---
+Manager : mgr_talisay@spx.com
+Staff   : staff_talisay@spx.com
+Rider   : rider_talisay@spx.com
+Customer: customer_talisay@spx.com
+
+--- Digos Terminal ---
+Manager : mgr_igos@spx.com
+Staff   : staff_igos@spx.com
+Rider   : rider_igos@spx.com
+Customer: customer_igos@spx.com
+
+--- Ormoc Hub ---
+Manager : mgr_ormoc@spx.com
+Staff   : staff_ormoc@spx.com
+Rider   : rider_ormoc@spx.com
+Customer: customer_ormoc@spx.com
+
+--- Passi Dispatch Center ---
+Manager : mgr_passi@spx.com
+Staff   : staff_passi@spx.com
+Rider   : rider_passi@spx.com
+Customer: customer_passi@spx.com
+
+--- La Trinidad Station ---
+Manager : mgr_latrinidad@spx.com
+Staff   : staff_latrinidad@spx.com
+Rider   : rider_latrinidad@spx.com
+Customer: customer_latrinidad@spx.com
+
+--- Tanauan Express Hub ---
+Manager : mgr_tanauan@spx.com
+Staff   : staff_tanauan@spx.com
+Rider   : rider_tanauan@spx.com
+Customer: customer_tanauan@spx.com
+
+--- Bacoor Logistics Hub ---
+Manager : mgr_bacoor@spx.com
+Staff   : staff_bacoor@spx.com
+Rider   : rider_bacoor@spx.com
+Customer: customer_bacoor@spx.com
+
+--- Biñan Station ---
+Manager : mgr_binan@spx.com
+Staff   : staff_binan@spx.com
+Rider   : rider_binan@spx.com
+Customer: customer_binan@spx.com
+
+--- Mabalacat Center ---
+Manager : mgr_mabalacat@spx.com
+Staff   : staff_mabalacat@spx.com
+Rider   : rider_mabalacat@spx.com
+Customer: customer_mabalacat@spx.com
+
+--- San Carlos Station ---
+Manager : mgr_sancarlos@spx.com
+Staff   : staff_sancarlos@spx.com
+Rider   : rider_sancarlos@spx.com
+Customer: customer_sancarlos@spx.com
+
+--- Gingoog Logistics Station ---
+Manager : mgr_gingoog@spx.com
+Staff   : staff_gingoog@spx.com
+Rider   : rider_gingoog@spx.com
+Customer: customer_gingoog@spx.com
+

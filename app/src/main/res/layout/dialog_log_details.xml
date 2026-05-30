@@ -1,0 +1,228 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.core.widget.NestedScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="20dp"
+    android:background="#FFFFFF">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <!-- Tracking Number Header Card -->
+        <com.google.android.material.card.MaterialCardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="16dp"
+            app:cardCornerRadius="12dp"
+            app:cardElevation="0dp"
+            app:strokeWidth="1dp"
+            app:strokeColor="#EE4D2D"
+            app:cardBackgroundColor="#FFF5F3">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="14dp"
+                android:gravity="center">
+                <TextView
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:text="Tracking Number"
+                    android:textColor="#EE4D2D"
+                    android:textSize="11sp"
+                    android:textStyle="bold" />
+                <TextView
+                    android:id="@+id/tvDetailsTracking"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:layout_marginTop="4dp"
+                    android:textSize="16sp"
+                    android:textStyle="bold"
+                    android:fontFamily="monospace"
+                    android:textColor="#EE4D2D"
+                    android:text="DDX-XXXXXXXXX" />
+            </LinearLayout>
+        </com.google.android.material.card.MaterialCardView>
+
+        <!-- details list -->
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <!-- Timestamp -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Date &amp; Time"
+                android:textSize="11sp"
+                android:textColor="#94A3B8"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/tvDetailsTimestamp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:textSize="13sp"
+                android:textStyle="bold"
+                android:textColor="#334155"
+                android:text="-" />
+            <View android:layout_width="match_parent" android:layout_height="1dp" android:background="#F1F5F9" android:layout_marginVertical="8dp" />
+
+            <!-- Activity Status -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Activity / Status"
+                android:textSize="11sp"
+                android:textColor="#94A3B8"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/tvDetailsStatus"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:textSize="13sp"
+                android:textStyle="bold"
+                android:textColor="#EE4D2D"
+                android:text="-" />
+            <View android:layout_width="match_parent" android:layout_height="1dp" android:background="#F1F5F9" android:layout_marginVertical="8dp" />
+
+            <!-- Personnel -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Personnel"
+                android:textSize="11sp"
+                android:textColor="#94A3B8"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/tvDetailsPersonnel"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:textSize="13sp"
+                android:textStyle="bold"
+                android:textColor="#334155"
+                android:text="-" />
+            <View android:layout_width="match_parent" android:layout_height="1dp" android:background="#F1F5F9" android:layout_marginVertical="8dp" />
+
+            <!-- Source Branch -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Source Branch"
+                android:textSize="11sp"
+                android:textColor="#94A3B8"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/tvDetailsBranch"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:textSize="13sp"
+                android:textStyle="bold"
+                android:textColor="#334155"
+                android:text="-" />
+            <View android:layout_width="match_parent" android:layout_height="1dp" android:background="#F1F5F9" android:layout_marginVertical="8dp" />
+
+            <!-- Operator Remarks -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Operator Remarks"
+                android:textSize="11sp"
+                android:textColor="#94A3B8"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/tvDetailsRemarks"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:textSize="13sp"
+                android:textColor="#475569"
+                android:text="-" />
+            <View android:layout_width="match_parent" android:layout_height="1dp" android:background="#F1F5F9" android:layout_marginVertical="8dp" />
+
+            <!-- COD Value -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="COD Value"
+                android:textSize="11sp"
+                android:textColor="#94A3B8"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/tvDetailsCod"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:textSize="13sp"
+                android:textStyle="bold"
+                android:textColor="#334155"
+                android:text="-" />
+            <View android:layout_width="match_parent" android:layout_height="1dp" android:background="#F1F5F9" android:layout_marginVertical="8dp" />
+
+            <!-- Declared Weight -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Declared Weight"
+                android:textSize="11sp"
+                android:textColor="#94A3B8"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/tvDetailsWeight"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:textSize="13sp"
+                android:textStyle="bold"
+                android:textColor="#334155"
+                android:text="-" />
+            <View android:layout_width="match_parent" android:layout_height="1dp" android:background="#F1F5F9" android:layout_marginVertical="8dp" />
+
+            <!-- Recipient Name -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Recipient Name &amp; Phone"
+                android:textSize="11sp"
+                android:textColor="#94A3B8"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/tvDetailsReceiver"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:textSize="13sp"
+                android:textStyle="bold"
+                android:textColor="#334155"
+                android:text="-" />
+            <View android:layout_width="match_parent" android:layout_height="1dp" android:background="#F1F5F9" android:layout_marginVertical="8dp" />
+
+            <!-- Recipient Address -->
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Delivery Address"
+                android:textSize="11sp"
+                android:textColor="#94A3B8"
+                android:textStyle="bold" />
+            <TextView
+                android:id="@+id/tvDetailsAddress"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="2dp"
+                android:textSize="13sp"
+                android:textColor="#475569"
+                android:text="-" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+</androidx.core.widget.NestedScrollView>
